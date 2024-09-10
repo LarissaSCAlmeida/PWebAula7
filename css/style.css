@@ -1,0 +1,49 @@
+.titulo{
+    color: rgb(77, 16, 134);
+}
+.imagem1{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.imagem2{
+    text-align: center;
+}
+
+.conteudo1{
+    font-size: 14;
+    color: rgb(71, 12, 110);
+    background-color: rgb(79, 192, 212);
+    border: 5px solid rgb(0, 63, 19);
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+}
+
+.conteudo2{
+    font-size: 20;
+    color: #000;
+    background-color: brown;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: midnightblue;
+}
+
+.conteudo3{
+    font-size: 25px;
+    color: #dd0a9e;
+    background-color: rgb(7, 238, 169);
+    margin-top: 10px;
+    margin-left: 25px;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(235, 53, 8);    
+}
+
+.linha{
+    display: flex;
+    justify-content: center;
+}
